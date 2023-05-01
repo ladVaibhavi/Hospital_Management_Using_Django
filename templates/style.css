@@ -1,0 +1,57 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    background-color: rgb(253, 253, 253);
+    margin: 3px;
+  } 
+  
+  .navbar{
+    margin-top: 1%;
+    height: 48px;
+    overflow: none;
+  }
+  
+  .left-section-text{
+    text-align: left;
+  }
+  
+   /* .heading{
+    background-color: white;
+    text-align: center;
+    padding-left: 6%;
+    box-shadow: 0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+    width: 78%;
+    height: 1%;
+    margin-left: 1%;
+  } */
+  
+  .right-section .heading{
+    
+    box-shadow: 0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+    text-align: center;
+    
+  }
+  
+  .doctors{
+    box-shadow: 0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+    margin-left: 1.7%;
+    width: 97%;
+  }
+  
+  .card{
+    margin: 3%;
+  }
+  
+  .heading{
+    width: 100%;
+  }
+  
+  .title{
+    width: 100%;
+  }
+  
+  /* .title .heading{
+    padding:auto 50%;
+    width: 78%;
+  } */
